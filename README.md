@@ -37,10 +37,27 @@ Read the material for part 2 of the Flask Tutorial (Links to an external site.)L
 
 ------------------------------------------------------------------------------------
 Part 3: Web Forms
-*** Current session that is being built on ***
+*** Should have been completed prior to this session ***
 
 Here we will explore how to get user input into Flask by way of web forms.  We'll also install the Flask-WTF extension to make this integration easier.  Great name for an extension, BTW.
 
 We'll look at how to implement configuration for Flask:  Where are all the various tokens, settings, and environment variables kept?  What is best practice for managing these?  There will be some form validation, and exploration of decoupling: how to not bog down your code with literal references to API routes.
 
 -------------------------------------------------------------------------------------
+Part 4: The Database
+*** Current session that is being built on ***
+
+Topics
+Setup of the database as a persistent store  
+Object Relational Mappers (ORMs) and why they are so powerful
+Migrations: Changing database schemas, doing up- and down-migrations
+Database models & relationships
+DB queries via SQLAlchemy
+Flask shell commands
+ 
+Additional Libraries to install:
+Flask-SQLAlchemy (Links to an external site.)Links to an external site.
+Flask-Migrate (Links to an external site.)Links to an external site.
+To Do:
+Read and understand section 4, and implement the code changes in your codebase as you are reading. Be sure to run through the REPL examples of the manual database queries.
+
