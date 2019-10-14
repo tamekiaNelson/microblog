@@ -45,7 +45,7 @@ We'll look at how to implement configuration for Flask:  Where are all the vario
 
 -------------------------------------------------------------------------------------
 Part 4: The Database
-*** Current session that is being built on ***
+*** Should have been completed prior to this session ***
 
 Topics
 Setup of the database as a persistent store  
@@ -61,3 +61,17 @@ Flask-Migrate (Links to an external site.)Links to an external site.
 To Do:
 Read and understand section 4, and implement the code changes in your codebase as you are reading. Be sure to run through the REPL examples of the manual database queries.
 
+-------------------------------------------------------------------------------------
+Part 5: User Logins
+*** Current session that is being built on ***
+
+Topics
+Password hashing
+Adapting the User model with a `mixin` class
+Logging users in and out
+Protecting routes with @login
+Registering new users
+Libraries to install
+Flask-login (Links to an external site.)Links to an external site.
+To Do
+This section examines html-rendered (template) login functionality.  Application-based logins (e.g. JWT authentication) will come later in the series.  Read and understand section 5, and implement the code changes in your codebase as you are reading. 
