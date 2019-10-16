@@ -1,5 +1,11 @@
 # microblog
 
+This program is to have a simple Flask web application running on your computer. The steps include intro to flask, building templates, web forms, the database and user login creation. 
+
+Below are the steps to each part of the build up.
+
+
+
 Part One: Intro to Flask
 *** Should have been completed prior to this session ***
 
